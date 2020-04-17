@@ -98,7 +98,7 @@ User can post a new photo to their feed
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://postimg.cc/T5JLWBk0" width=600>
+<img src="https://i.postimg.cc/Vv3j28nx/IMG-6846.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
