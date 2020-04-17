@@ -8,16 +8,18 @@
 
 ## Overview
 ### Description
-[This app provides a platform for anyone who wants to buy or sell cars.]
+This app provides a platform for anyone who wants to buy or sell cars.
+
+
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+Evaluation of your app across the following attributes
+- **Category:** Social Networking/ Cars
+- **Mobile:** This app is developed for only Mobile. This app will only be available for Apple App store.
+- **Story:** Connect anyone who wants to buy a car with the one who wants to sell it.
+- **Market:** Anyone interested in buying or selling a car can use this app.
+- **Habit:** Depends on the user trade requirements
+- **Scope:** Connection people for trade of cars.
 
 ## Product Spec
 
@@ -25,21 +27,18 @@
 
 **Required Must-have Stories**
 
-* [User can SignUp]
-* [User can login]
-* [User can logout]
-* [User can upload a picture]
-* [User can upload a text descriptions]
-* [User can view a feed of pictures]
-* [User can find the contact of the seller/buyer]
+* User can Signup
+* User can login
+* User can logout
+* User can upload a picture
+* User can upload a text descriptions
+* User can view a feed of pictures
+* User can find the contact of the seller/buyer
 
-
-* ...
 
 **Optional Nice-to-have Stories**
 
-* [User can tap a photo to view a more detailed photo screen with comments]
-* ...
+* User can tap a photo to view a more detailed photo screen with comments
 
 ### 2. Screen Archetypes
 
@@ -53,53 +52,53 @@ User can double tap a photo to like
 Creation
 User can post a new photo to their feed
 
-* [Login Screen]
-   * [User can login]
- 
-* [SignUp screen]
-   * [User can sign up]
+* Login Screen
+   * User can login
    
-* [ Activity Feed]
-   * [User can view a feed of photos]
+* SignUp screen
+   * User can sign up
    
-* [Upload Post]
-   * [User can post a new photo to their feed]
-   * [User can attach a text description to their feed]
+*  Activity Feed
+   * User can view a feed of photos
+   
+* Upload Post
+   * User can post a new photo to their feed
+   * User can attach a text description to their feed
    
    
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
-* [Home Feed]
-* [Post a Photo]
-* [Search Car]
+* Home Feed
+* Post a Photo
+* Search Car
 
 **Flow Navigation** (Screen to Screen)
 
-* [Login Screen]
-   * [Home]
-   * [Sign Up]
-* [Home]
-   * [Post]
-   * [Search]
-   * [Feed]
-   * [Log out]
-* [Post]
-   * [Home]
-   * [Log out]
-* [Search]
-   * [Feed]
-   * [Home]
-   * [Log out]
-* [Log out]
-   * [Log In]
+* Login Screen
+   * Home
+   * Sign Up
+* Home
+   * Post
+   * Search
+   * Feed
+   * Log out
+* Post
+   * Home
+   * Log out
+* Search
+   * Feed
+   * Home
+   * Log out
+* Log out
+   * Log In
    
   
 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://postimg.cc/T5JLWBk0" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
