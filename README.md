@@ -97,12 +97,8 @@ User can post a new photo to their feed
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+
 <img src="https://i.postimg.cc/Vv3j28nx/IMG-6846.jpg" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
