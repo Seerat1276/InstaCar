@@ -101,10 +101,10 @@ User can post a new photo to their feed
 <img src="https://i.postimg.cc/Vv3j28nx/IMG-6846.jpg" width=600>
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
 
-updatedAt	DateTime	date when post is last updated (default field)
+
 | Property | Type | Description  |
 | ------- | --- | --- |
 | userId | String | unique id for the user |
@@ -123,6 +123,4 @@ updatedAt	DateTime	date when post is last updated (default field)
 * Profile Screen
   * (Read/GET) Query logged in user object
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+
