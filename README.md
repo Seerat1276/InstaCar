@@ -103,7 +103,23 @@ User can post a new photo to their feed
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+
+objectId	String	unique id for the user post (default field)
+author	Pointer to User	image author
+image	File	image that user posts
+caption	String	image caption by author
+commentsCount	Number	number of comments that has been posted to an image
+likesCount	Number	number of likes for the post
+createdAt	DateTime	date when post is created (default field)
+updatedAt	DateTime	date when post is last updated (default field)
+| Property | Type | Description  |
+| ------- | --- | --- |
+| userId | String | unique id for the user |
+| image | File | uploading images of car |
+| Date | DateTime | Date of the post |
+| Comment | String |Comment on the post |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
