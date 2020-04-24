@@ -104,14 +104,6 @@ User can post a new photo to their feed
 [This section will be completed in Unit 9]
 ### Models
 
-
-objectId	String	unique id for the user post (default field)
-author	Pointer to User	image author
-image	File	image that user posts
-caption	String	image caption by author
-commentsCount	Number	number of comments that has been posted to an image
-likesCount	Number	number of likes for the post
-createdAt	DateTime	date when post is created (default field)
 updatedAt	DateTime	date when post is last updated (default field)
 | Property | Type | Description  |
 | ------- | --- | --- |
@@ -121,6 +113,16 @@ updatedAt	DateTime	date when post is last updated (default field)
 | Comment | String |Comment on the post |
 
 ### Networking
+
+* Home Feed Screen
+  * (Read/GET) Query all posts where user is author
+  * (Create/POST) Create a new comment on a post
+
+* Create Post Screen
+  * (Create/POST) Create a new post 
+* Profile Screen
+  * (Read/GET) Query logged in user object
+
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
