@@ -96,9 +96,10 @@ User can post a new photo to their feed
   
 
 
-## Wireframes
+## Prototype
 
-<img src="https://i.postimg.cc/Vv3j28nx/IMG-6846.jpg" width=600>
+
+<img src='https://recordit.co/C5oSypvQmy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Schema 
 
